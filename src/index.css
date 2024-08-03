@@ -1,0 +1,20 @@
+/* font link part satrt */
+
+/* font link part end */
+/* root variable part start */
+
+/* root variable part end */
+/* common css part start */
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+/* common css part end */
